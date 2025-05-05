@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: soraka
-        image: public.ecr.aws/d2l1l3q0/mo4devops:latest
+        image: public.ecr.aws/d2l1l3q0/mo4devops:dev
         ports:
         - containerPort: 8080
         resources:
